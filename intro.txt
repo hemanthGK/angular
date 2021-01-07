@@ -1,0 +1,49 @@
+------------------------------------------------------------------------------------------------
+                                           UI(USER INTERFACE)
+------------------------------------------------------------------------------------------------
+BROWSER TECHNOLOGY
+ 1.html
+ 2.css
+ 3.javascript
+-------------------------------------------------------------------------------------------------
+                                         UI= data+style+behavior
+                                         webUI = HTMl+CSS+javascript
+-------------------------------------------------------------------------------------------------
+why javascript is needed..?
+  
+javascript program can do any ui magic using browser provided web apis.
+
+browser web apis ==> w3c Proposals,es(ecma),
+
+1.google chrome - V8 engine 
+2.microsoft edge browser - chakra or chakraCore
+3.safari - nitro
+4.firefox - spidermonkey
+
+-------------------------------------------------------------------------------------------------
+all web api are implemented browser vendors natively,but they are abstract from javascript objects 
+and functions
+--------------------------------------------------------------------------------------------------
+web apis given by javascript ===> DOM,xhr/fetch api,timer......
+--------------------------------------------------------------------------------------------------
+Using of DOM api...
+    1.can create ,update,delete,select html elements
+    2.can change innerhtmls content,
+    3.html style,update
+    4.can validate form fields
+    5.can create rich level of components.etc...
+Using XHR/fetch APi..
+    1.can communicate with backend servers
+Using timer api ...
+    1.can execute any actions on timeout/interval
+--------------------------------------------------------------------------------------------------       
+using javascript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+for html apis
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+---------------------------------------------------------------------------------------------------
+
+api....
+application program interface
+
