@@ -45,5 +45,5 @@ https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 ---------------------------------------------------------------------------------------------------
 
 api....
-application program interface
+application program interface its used fetch data from servers
 
